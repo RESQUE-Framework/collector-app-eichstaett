@@ -1,4 +1,4 @@
-Liebe Bewerberin, lieber Bewerber,
+Liebe Bewerberin, lieber Bewerber, und alle außerhalb und dazwischen,
 
 für eine Ergänzung Ihrer Bewerbungsunterlagen auf die Professur für Entwicklungs- und Pädagogische Psychologie (W3) der Katholischen Universität Eichstätt-Ingolstadt bittet Sie die Berufungskommission um Unterstützung, ein RESQUE Profil für Sie zu erstellen. RESQUE wurde auf Initiative der Deutschen Gesellschaft für Psychologie zur Bewertung von Forschungsqualität in Berufungsverfahren entwickelt und geht über die reine Anzahl von Publikationen oder Kennwerten wie Impact Faktoren hinaus. Die Kommission legt Wert auf die Qualität der wissenschaftlichen Beiträge sowie auf transparente, robuste Forschung, zum Beispiel durch die Verwendung offener Forschungspraktiken wie offene Daten, offener Code oder Präregistrierungen. Die Kommission nutzt RESQUE, um diese Punkte bewerten zu können. Wir sind uns bewusst, dass Sie und wir damit Pionierarbeit leisten und bitten Sie, Ihre Angaben nach bestem Wissen und Gewissen auszufüllen. Am Ende des Formulars gibt es ein offenes Feld für Anmerkungen.
 
